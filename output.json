@@ -1,0 +1,2 @@
+{"type":"STATE","value":{}}
+{"type":"SCHEMA","stream":"surveys","schema":{"properties":{"id":{"type":["null","integer"]},"type":{"type":["null","string"]},"name":{"type":["null","boolean"]},"created_at":{"type":["null","string"]},"enabled":{"type":["null","string"]},"responses":{"type":["null","integer"]},"launch":{"items":{"properties":{"start_at":{"type":["null","string"]},"end_at":{"type":["null","string"]},"responses_limit":{"type":["null","string"]}},"type":"object"},"type":"array"}},"type":"object","required":["id"]},"key_properties":["id"]}

@@ -1,0 +1,268 @@
+{
+    "data": [
+      {
+        "id": "463f77d0e036ace6",
+        "type": "PageSurvey",
+        "name": "NPS Company Incorporation",
+        "created_at": "2024-05-24T13:27:32.000000Z",
+        "enabled": true,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "27e1149e1825fc19",
+        "type": "PageSurvey",
+        "name": "End of free trial",
+        "created_at": "2024-05-22T08:09:14.000000Z",
+        "enabled": true,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "82fe6a0574feaa6c",
+        "type": "PageSurvey",
+        "name": "202405 Business report accountant feedback",
+        "created_at": "2024-05-20T14:37:01.000000Z",
+        "enabled": true,
+        "responses": 2,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "77d786144ae5b0e4",
+        "type": "PageSurvey",
+        "name": "NPS Sales PT",
+        "created_at": "2024-05-17T15:09:26.000000Z",
+        "enabled": true,
+        "responses": 25,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "e5b374e1403d51d7",
+        "type": "PageSurvey",
+        "name": "Email OM - EN",
+        "created_at": "2024-05-15T13:54:21.000000Z",
+        "enabled": true,
+        "responses": 15,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "7670be2698197375",
+        "type": "PageSurvey",
+        "name": "IVA & IRS B",
+        "created_at": "2024-05-14T08:57:57.000000Z",
+        "enabled": true,
+        "responses": 7,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "c60495610e1438a8",
+        "type": "PageSurvey",
+        "name": "IVA & IRS a",
+        "created_at": "2024-05-14T08:38:32.000000Z",
+        "enabled": true,
+        "responses": 3,
+        "launch": {
+          "start_at": null,
+          "end_at": "2024-06-14T23:59:59.000000+01:00",
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "6c4299bff69563f0",
+        "type": "WidgetSurvey",
+        "name": "Exit reasons",
+        "created_at": "2024-05-08T09:57:58.000000Z",
+        "enabled": false,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "a3e6f14e5b407356",
+        "type": "MobileSurvey",
+        "name": "NPS Invoicing (iOS)",
+        "created_at": "2024-04-23T17:25:32.000000Z",
+        "enabled": false,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "663b873ab0cad103",
+        "type": "MobileSurvey",
+        "name": "NPS Invoicing (android)",
+        "created_at": "2024-04-23T17:23:19.000000Z",
+        "enabled": false,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "a4e0334e18934e39",
+        "type": "PageSurvey",
+        "name": "NPS Company Incorporation - PT",
+        "created_at": "2024-04-23T16:41:52.000000Z",
+        "enabled": true,
+        "responses": 1,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "2ee2679f8ef27b34",
+        "type": "PageSurvey",
+        "name": "NPS Sales EN",
+        "created_at": "2024-04-23T15:45:31.000000Z",
+        "enabled": true,
+        "responses": 16,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "b5b446656648a458",
+        "type": "MobileSurvey",
+        "name": "NPS Accounting Services (iOS)",
+        "created_at": "2024-04-23T15:26:43.000000Z",
+        "enabled": false,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "ce9bec029e5e0b86",
+        "type": "MobileSurvey",
+        "name": "NPS Onboarding + Brand",
+        "created_at": "2024-04-23T15:01:27.000000Z",
+        "enabled": true,
+        "responses": 30,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "68cbf592c2a7f5d9",
+        "type": "MobileSurvey",
+        "name": "NPS Accounting Services (Android)",
+        "created_at": "2024-04-23T11:19:50.000000Z",
+        "enabled": false,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "e6bc943f0b537cf9",
+        "type": "PageSurvey",
+        "name": "CSAT OM - PT",
+        "created_at": "2024-04-18T17:28:15.000000Z",
+        "enabled": true,
+        "responses": 2,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "99883e163285bbf5",
+        "type": "PageSurvey",
+        "name": "Desktop tester list",
+        "created_at": "2024-04-18T11:52:15.000000Z",
+        "enabled": true,
+        "responses": 35,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "99ee07ccff285d13",
+        "type": "PageSurvey",
+        "name": "CSAT OM - EN",
+        "created_at": "2024-04-18T10:36:55.000000Z",
+        "enabled": true,
+        "responses": 4,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "94522fdc851fb8bc",
+        "type": "MobileSurvey",
+        "name": "NPS transfers (android)",
+        "created_at": "2024-04-11T15:40:42.000000Z",
+        "enabled": false,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      },
+      {
+        "id": "c475fe707547b7b2",
+        "type": "MobileSurvey",
+        "name": "NPS transfers (iOS)",
+        "created_at": "2024-04-11T13:49:18.000000Z",
+        "enabled": false,
+        "responses": 0,
+        "launch": {
+          "start_at": null,
+          "end_at": null,
+          "responses_limit": null
+        }
+      }
+    ],
+    "pagination_data": {
+      "has_more": true,
+      "next_url": "/surveys?start=2024-04-10T10:54:23.000000Z&items_per_page=20"
+    }
+  }
