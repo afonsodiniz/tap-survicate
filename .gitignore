@@ -1,0 +1,10 @@
+.env
+env/
+.meltano/
+meltano/
+logs/
+__pycache__/
+orchestrate/airflow/airflow-webserver.pid
+.DS_Store
+edr_target/
+edr.log
